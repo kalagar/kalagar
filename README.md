@@ -19,6 +19,8 @@
 
 [![devops-essentials 2](https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa)](https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url)
 [![introduction-to-cloud-computing](https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5)](https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url)
+[![linux-commands-shell-scripting-essentials-v2(1)](https://github.com/kalagar/kalagar/assets/6311592/3d77a8f8-f60c-4daf-8851-5df1d8adbd61)](https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url)
+
 
 <hr />
 
