@@ -99,7 +99,6 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
   <img src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalagar&theme=tokyonight" height="160" alt="WakaTime Stats"/>
 </div>
 
 ---
