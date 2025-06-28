@@ -24,80 +24,75 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 #### 🧱 Languages & Frameworks
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><br>JavaScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/><br>TypeScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/><br>NestJS</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="24px" alt="Spring Boot"/><br>Spring Boot</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" height="24px" alt="React"/><br>React</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" height="24px" alt="Next.js"/><br>Next.js</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" height="24px" alt="Angular"/><br>Angular</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="24px" alt="Vue.js"/><br>Vue.js</td>
   </tr>
 </table>
+</div>
 
 #### ☁️ Cloud & DevOps
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" height="24px" alt="AWS"/><br>AWS</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="24px" alt="Docker"/><br>Docker</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" height="24px" alt="Terraform"/><br>Terraform</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" height="24px" alt="Heroku"/><br>Heroku</td>
-    <td align="center"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" height="24px" alt="ECS"/><br>ECS</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="24px" alt="CI/CD"/><br>CI/CD</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="24px" alt="GCP"/><br>GCP</td>
   </tr>
 </table>
+</div>
 
 #### 🛒 Commerce & Content
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Commercetools"/><br>Commercetools</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" height="24px" alt="Algolia"/><br>Algolia</td>
     <td align="center"><img src="https://www.svgrepo.com/show/353600/contentful.svg" height="24px" alt="Contentful"/><br>Contentful</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Dynamic Yield"/><br>Dynamic Yield</td>
   </tr>
 </table>
+</div>
 
 #### 🤖 AI, APIs, and Payments
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" height="24px" alt="Vertex AI"/><br>Vertex AI</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" height="24px" alt="GraphQL"/><br>GraphQL</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="24px" alt="Swagger"/><br>Swagger</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://img.icons8.com/color/28/soap.png" height="24px" alt="SOAP"/><br>SOAP</td>
     <td align="center"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="24px" alt="Stripe"/><br>Stripe</td>
   </tr>
 </table>
+</div>
 
 ### 🧪 Testing & Tooling
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" height="24px" alt="Cypress"/><br>Cypress</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" height="24px" alt="Bitbucket CI"/><br>Bitbucket CI</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" height="24px" alt="Ant Design"/><br>Ant Design</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" height="24px" alt="Material UI"/><br>Material UI</td>
   </tr>
 </table>
+</div>
 
 ---
 
