@@ -20,93 +20,60 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
-<style>
-  .skill {
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 8px;
-  }
-</style>
+#### 🧱 Languages & Frameworks
 
-### 🧱 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</p>
 
-<table style="text-align: center; vertical-align: middle;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><span>JavaScript</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/><span>TypeScript</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/><span>NestJS</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="24px" alt="Spring Boot"/><span>Spring Boot</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/React.svg" height="24px" alt="React"/><span>React</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" height="24px" alt="Next.js"/><span>Next.js</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" height="24px" alt="Angular"/><span>Angular</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="24px" alt="Vue.js"/><span>Vue.js</span></div></td>
-  </tr>
-</table>
+#### ☁️ Cloud & DevOps
 
-### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="ECS"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+</p>
 
-<table style="text-align: center; vertical-align: middle;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" height="24px" alt="AWS"/><span>AWS</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="24px" alt="Docker"/><span>Docker</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" height="24px" alt="Terraform"/><span>Terraform</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" height="24px" alt="Heroku"/><span>Heroku</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" height="24px" alt="ECS"/><span>ECS</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="24px" alt="CI/CD"/><span>CI/CD</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="24px" alt="GCP"/><span>GCP</span></div></td>
-  </tr>
-</table>
+#### 🛒 Commerce & Content
 
-### 🛒 Commerce & Content
+<p>
+  <img src="https://img.shields.io/badge/Commercetools-008CC1?style=for-the-badge&logo=commercetools&logoColor=white" alt="Commercetools"/>
+  <img src="https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia"/>
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Yield-000000?style=for-the-badge&logo=dynamic-yield&logoColor=white" alt="Dynamic Yield"/>
+</p>
 
-<table style="text-align: center; vertical-align: middle;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Commercetools"/><span>Commercetools</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" height="24px" alt="Algolia"/><span>Algolia</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://www.svgrepo.com/show/353600/contentful.svg" height="24px" alt="Contentful"/><span>Contentful</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Dynamic Yield"/><span>Dynamic Yield</span></div></td>
-  </tr>
-</table>
+#### 🤖 AI, APIs, and Payments
 
-### 🤖 AI, APIs, and Payments
+<p>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/SOAP-FF9900?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
 
-<table style="text-align: center; vertical-align: middle;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" height="24px" alt="Vertex AI"/><span>Vertex AI</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" height="24px" alt="GraphQL"/><span>GraphQL</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="24px" alt="Swagger"/><span>Swagger</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://img.icons8.com/color/28/soap.png" height="24px" alt="SOAP"/><span>SOAP</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="24px" alt="Stripe"/><span>Stripe</span></div></td>
-  </tr>
-</table>
+#### 🧪 Testing & Tooling
 
-### 🧪 Testing & Tooling
-
-<table style="text-align: center; vertical-align: middle;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" height="24px" alt="Cypress"/><span>Cypress</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" height="24px" alt="Bitbucket CI"/><span>Bitbucket CI</span></div></td>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" height="24px" alt="Ant Design"/><span>Ant Design</span></div></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" height="24px" alt="Material UI"/><span>Material UI</span></div></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Bitbucket%20CI-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket CI"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design"/>
+  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+</p>
 
 ---
 
@@ -132,6 +99,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
   <img src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalagar&theme=tokyonight" height="160" alt="WakaTime Stats"/>
 </div>
 
 ---
