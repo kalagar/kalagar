@@ -22,22 +22,31 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 ## 🚀 Tech Stack
 
+<style>
+  .skill {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 8px;
+  }
+</style>
+
 ### 🧱 Languages & Frameworks
 
 <table style="text-align: center; vertical-align: middle;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><span>JavaScript</span></td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/> TypeScript</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/> NestJS</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><span>JavaScript</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/><span>TypeScript</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/><span>NestJS</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="24px" alt="Spring Boot"/> Spring Boot</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/React.svg" height="24px" alt="React"/> React</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" height="24px" alt="Next.js"/> Next.js</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="24px" alt="Spring Boot"/><span>Spring Boot</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/React.svg" height="24px" alt="React"/><span>React</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" height="24px" alt="Next.js"/><span>Next.js</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" height="24px" alt="Angular"/> Angular</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="24px" alt="Vue.js"/> Vue.js</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" height="24px" alt="Angular"/><span>Angular</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="24px" alt="Vue.js"/><span>Vue.js</span></div></td>
   </tr>
 </table>
 
@@ -45,17 +54,17 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 <table style="text-align: center; vertical-align: middle;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" height="24px" alt="AWS"/> AWS</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="24px" alt="Docker"/> Docker</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" height="24px" alt="Terraform"/> Terraform</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" height="24px" alt="AWS"/><span>AWS</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="24px" alt="Docker"/><span>Docker</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" height="24px" alt="Terraform"/><span>Terraform</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" height="24px" alt="Heroku"/> Heroku</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" height="24px" alt="ECS"/> ECS</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="24px" alt="CI/CD"/> CI/CD</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" height="24px" alt="Heroku"/><span>Heroku</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" height="24px" alt="ECS"/><span>ECS</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="24px" alt="CI/CD"/><span>CI/CD</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="24px" alt="GCP"/> GCP</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="24px" alt="GCP"/><span>GCP</span></div></td>
   </tr>
 </table>
 
@@ -63,12 +72,12 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 <table style="text-align: center; vertical-align: middle;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Commercetools"/> Commercetools</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" height="24px" alt="Algolia"/> Algolia</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://www.svgrepo.com/show/353600/contentful.svg" height="24px" alt="Contentful"/> Contentful</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Commercetools"/><span>Commercetools</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" height="24px" alt="Algolia"/><span>Algolia</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://www.svgrepo.com/show/353600/contentful.svg" height="24px" alt="Contentful"/><span>Contentful</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Dynamic Yield"/> Dynamic Yield</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Dynamic Yield"/><span>Dynamic Yield</span></div></td>
   </tr>
 </table>
 
@@ -76,13 +85,13 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 <table style="text-align: center; vertical-align: middle;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" height="24px" alt="Vertex AI"/> Vertex AI</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" height="24px" alt="GraphQL"/> GraphQL</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="24px" alt="Swagger"/> Swagger</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" height="24px" alt="Vertex AI"/><span>Vertex AI</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" height="24px" alt="GraphQL"/><span>GraphQL</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="24px" alt="Swagger"/><span>Swagger</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://img.icons8.com/color/28/soap.png" height="24px" alt="SOAP"/> SOAP</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="24px" alt="Stripe"/> Stripe</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://img.icons8.com/color/28/soap.png" height="24px" alt="SOAP"/><span>SOAP</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="24px" alt="Stripe"/><span>Stripe</span></div></td>
   </tr>
 </table>
 
@@ -90,12 +99,12 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 <table style="text-align: center; vertical-align: middle;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" height="24px" alt="Cypress"/> Cypress</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" height="24px" alt="Bitbucket CI"/> Bitbucket CI</td>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" height="24px" alt="Ant Design"/> Ant Design</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" height="24px" alt="Cypress"/><span>Cypress</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" height="24px" alt="Bitbucket CI"/><span>Bitbucket CI</span></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" height="24px" alt="Ant Design"/><span>Ant Design</span></div></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" height="24px" alt="Material UI"/> Material UI</td>
+    <td style="text-align: center; vertical-align: middle;"><div class="skill"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" height="24px" alt="Material UI"/><span>Material UI</span></div></td>
   </tr>
 </table>
 
