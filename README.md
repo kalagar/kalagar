@@ -27,6 +27,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 <div align="center">
 <table>
   <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="24px" alt="Java"/><br>Java</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><br>JavaScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/><br>TypeScript</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/><br>NestJS</td>
