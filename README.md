@@ -1,57 +1,158 @@
-### 💫 KALAGAR
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Mansour Kalagar</span></h1>
+<h3 align="center">Senior Software Engineer | Solution Architect | Consultant</h3>
+<p align="center">🇩🇪 Based in Munich · 💼 @foobar · 🌐 Building scalable e-commerce platforms</p>
 
-🌍  I'm based in Munich<br>
-🚀  I'm currently working on [Porta](http://porta.de)<br>
-🧠  I'm learning AWS solution architect<br>
-⚡  I'm so into crypto!
+---
 
-<hr />
+## 💡 About Me
 
-### 🌐 Socials
+With over **14 years of experience**, I help companies scale their digital products by combining clean architecture, domain-driven design, and cross-functional collaboration.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalagar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kalagar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1922090/kalagar) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mansourkalagar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kalagar2) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kalagar)
+🧠 I specialize in:
 
-<hr />
+- ⚙️ **Scalable System Design**
+- 🧩 **Modular APIs & Integrations**
+- 🖼️ **Frontend & Backend Architecture**
+- ☁️ **Cloud Infrastructure on AWS and GCP**
 
-### 💻 Tech Stack
+I’m passionate about delivering real-world impact through reliable, thoughtful, and elegant software solutions.
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PULUMI](https://img.shields.io/badge/pulumi-%237F52FF.svg?style=for-the-badge&logo=pulumi-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## 🚀 Tech Stack
+
+### 🧱 Languages & Frameworks
+
+<table style="text-align: center; vertical-align: middle;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="24px" alt="JavaScript"/><span>JavaScript</span></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="24px" alt="TypeScript"/> TypeScript</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" height="24px" alt="NestJS"/> NestJS</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="24px" alt="Spring Boot"/> Spring Boot</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/React.svg" height="24px" alt="React"/> React</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" height="24px" alt="Next.js"/> Next.js</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" height="24px" alt="Angular"/> Angular</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="24px" alt="Vue.js"/> Vue.js</td>
+  </tr>
+</table>
+
+### ☁️ Cloud & DevOps
+
+<table style="text-align: center; vertical-align: middle;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" height="24px" alt="AWS"/> AWS</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="24px" alt="Docker"/> Docker</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" height="24px" alt="Terraform"/> Terraform</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" height="24px" alt="Heroku"/> Heroku</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" height="24px" alt="ECS"/> ECS</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="24px" alt="CI/CD"/> CI/CD</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="24px" alt="GCP"/> GCP</td>
+  </tr>
+</table>
+
+### 🛒 Commerce & Content
+
+<table style="text-align: center; vertical-align: middle;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Commercetools"/> Commercetools</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" height="24px" alt="Algolia"/> Algolia</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://www.svgrepo.com/show/353600/contentful.svg" height="24px" alt="Contentful"/> Contentful</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="24px" alt="Dynamic Yield"/> Dynamic Yield</td>
+  </tr>
+</table>
+
+### 🤖 AI, APIs, and Payments
+
+<table style="text-align: center; vertical-align: middle;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" height="24px" alt="Vertex AI"/> Vertex AI</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" height="24px" alt="GraphQL"/> GraphQL</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="24px" alt="Swagger"/> Swagger</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://img.icons8.com/color/28/soap.png" height="24px" alt="SOAP"/> SOAP</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="24px" alt="Stripe"/> Stripe</td>
+  </tr>
+</table>
+
+### 🧪 Testing & Tooling
+
+<table style="text-align: center; vertical-align: middle;">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" height="24px" alt="Cypress"/> Cypress</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" height="24px" alt="Bitbucket CI"/> Bitbucket CI</td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" height="24px" alt="Ant Design"/> Ant Design</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" height="24px" alt="Material UI"/> Material UI</td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications
 
 <div align="center">
-    <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
-        <img src="https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa" alt="devops-essentials 2" />
-    </a>
-    <a href="https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url">
-        <img src="https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5" alt="introduction-to-cloud-computing" />
-    </a>
-    <a href="https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url">
-        <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" alt="linux" />
-    </a>
+  <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa" width="150" alt="DevOps Essentials Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5" width="150" alt="Cloud Computing Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" width="150" alt="Linux Badge" />
+  </a>
 </div>
 
-<hr />
+---
 
-### 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%; min-width: 200px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalagar&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 32%; min-width: 200px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%; min-width: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
-<hr />
+---
 
-### ✍️ Random Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
 </div>
 
-<hr />
+---
 
-### 😂 Random Dev Meme
+## 😂 Dev Meme of the Day
 
 <div align="center">
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  <img src="https://randommeme-five.vercel.app/" alt="Random Meme" width="400"/>
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+> 🧩 _“Thoughtful software architecture empowers growth. Let’s build something scalable and meaningful together.”_
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansourkalagar/"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
+  &nbsp;
+  <a href="https://kalagar.net"><img src="https://img.icons8.com/color/28/domain.png"/></a>
+  &nbsp;
+  <a href="mailto:kalagar.dev@gmail.com"><img src="https://img.icons8.com/color/28/gmail.png"/></a>
+</p>
