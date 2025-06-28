@@ -159,9 +159,5 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mansourkalagar/"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
-  &nbsp;
-  <a href="https://kalagar.net"><img src="https://img.icons8.com/color/28/domain.png"/></a>
-  &nbsp;
-  <a href="mailto:kalagar.dev@gmail.com"><img src="https://img.icons8.com/color/28/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/kalagar/"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
 </p>
