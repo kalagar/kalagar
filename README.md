@@ -24,7 +24,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 #### 🧱 Languages & Frameworks
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="24" alt="Java"/><br>Java</td>
@@ -42,7 +42,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 #### ☁️ Cloud & DevOps
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" width="24" alt="AWS"/><br>AWS</td>
@@ -57,7 +57,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 #### 🛒 Commerce & Content
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="24" alt="Commercetools"/><br>Commercetools</td>
@@ -70,7 +70,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 #### 🤖 AI, APIs, and Payments
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" width="24" alt="Vertex AI"/><br>Vertex AI</td>
@@ -84,7 +84,7 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 ### 🧪 Testing & Tooling
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" width="24" alt="Cypress"/><br>Cypress</td>
