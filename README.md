@@ -1,103 +1,93 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc">Mansour Kalagar</span></h1>
-<h3 align="center">Senior Software Engineer | Solution Architect | Consultant</h3>
-<p align="center">🇩🇪 Based in Munich · 💼 @foobar · 🌐 Building scalable e-commerce platforms</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Mansour%20Kalagar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Solution%20Architect%20%7C%20Consultant&descAlignY=60" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Designing+reliable%2C+scalable+digital+platforms;Bridging+product%2C+engineering%2C+and+architecture;Turning+complexity+into+clean+software+systems" alt="Typing Animation" />
+</div>
+
+<p align="center">
+  🇩🇪 Munich, Germany &nbsp;•&nbsp; 💼 @foobar &nbsp;•&nbsp; 🛒 Building scalable e-commerce platforms
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalagar&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kalagar?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kalagar?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-With over **14 years of experience**, I help companies scale their digital products by combining clean architecture, domain-driven design, and cross-functional collaboration.
+With **14+ years of experience**, I help teams build and scale high-impact products with a focus on:
 
-🧠 I specialize in:
+- 🧠 Domain-driven, modular architecture
+- ⚙️ Platform reliability and operational excellence
+- 🧩 API ecosystems and enterprise integrations
+- 🚀 Product delivery that balances speed and quality
 
-- ⚙️ **Scalable System Design**
-- 🧩 **Modular APIs & Integrations**
-- 🖼️ **Frontend & Backend Architecture**
-- ☁️ **Cloud Infrastructure on AWS and GCP**
-
-I’m passionate about delivering real-world impact through reliable, thoughtful, and elegant software solutions.
+I enjoy working at the intersection of **engineering rigor**, **business outcomes**, and **developer experience**.
 
 ---
 
-### 🚀 Tech Stack
+## 🧭 What I Focus On
 
-#### 🧱 Languages & Frameworks
-
-<div>
 <table>
   <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="24" alt="Java"/><br>Java</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="24" alt="TypeScript"/><br>TypeScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="24" alt="NestJS"/><br>NestJS</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="24" alt="Spring Boot"/><br>Spring Boot</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="24" alt="React"/><br>React</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="24" alt="Next.js"/><br>Next.js</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width="24" alt="Angular"/><br>Angular</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" width="24" alt="Vue.js"/><br>Vue.js</td>
+    <td width="33%">
+      <h3>🏗️ Architecture</h3>
+      <p>Building maintainable systems with clear boundaries, extensibility, and long-term adaptability.</p>
+    </td>
+    <td width="33%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>Production-ready cloud infrastructure, automation pipelines, and reliability-first engineering.</p>
+    </td>
+    <td width="33%">
+      <h3>🛒 Digital Commerce</h3>
+      <p>Composable commerce architectures that support growth, personalization, and international scale.</p>
+    </td>
   </tr>
 </table>
-</div>
-
-#### ☁️ Cloud & DevOps
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/AWS.svg" width="24" alt="AWS"/><br>AWS</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="24" alt="Docker"/><br>Docker</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="24" alt="Terraform"/><br>Terraform</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" width="24" alt="Heroku"/><br>Heroku</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="24" alt="CI/CD"/><br>CI/CD</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="24" alt="GCP"/><br>GCP</td>
-  </tr>
-</table>
-</div>
-
-#### 🛒 Commerce & Content
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.brandfetch.io/idxgt6T16Z/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="24" alt="Commercetools"/><br>Commercetools</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" width="24" alt="Algolia"/><br>Algolia</td>
-    <td align="center"><img src="https://www.svgrepo.com/show/353600/contentful.svg" width="24" alt="Contentful"/><br>Contentful</td>
-    <td align="center"><img src="https://cdn.brandfetch.io/idP4s0vsQ0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="24" alt="Dynamic Yield"/><br>Dynamic Yield</td>
-  </tr>
-</table>
-</div>
-
-#### 🤖 AI, APIs, and Payments
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" width="24" alt="Vertex AI"/><br>Vertex AI</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" width="24" alt="GraphQL"/><br>GraphQL</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="24" alt="Swagger"/><br>Swagger</td>
-    <td align="center"><img src="https://img.icons8.com/color/28/soap.png" width="24" alt="SOAP"/><br>SOAP</td>
-    <td align="center"><img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" width="24" alt="Stripe"/><br>Stripe</td>
-  </tr>
-</table>
-</div>
-
-### 🧪 Testing & Tooling
-
-<div>
-<table>
-  <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Cypress.svg" width="24" alt="Cypress"/><br>Cypress</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="24" alt="Bitbucket CI"/><br>Bitbucket CI</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" width="24" alt="Ant Design"/><br>Ant Design</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" width="24" alt="Material UI"/><br>Material UI</td>
-  </tr>
-</table>
-</div>
 
 ---
 
-## 📜 Certifications
+## 🧰 Tech Stack
+
+### 🧱 Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nestjs,react,nextjs,angular,vue,nodejs" alt="Languages and Frameworks" />
+</p>
+
+### ☁️ Cloud, DevOps & Infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,githubactions,kubernetes" alt="Cloud and DevOps" />
+</p>
+
+### 🧪 Testing, Quality & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,postman,git,github,bitbucket" alt="Testing and Tooling" />
+</p>
+
+### 🧠 APIs, AI & Commerce Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge" alt="SOAP" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Commercetools-2E3A59?style=for-the-badge" alt="Commercetools" />
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+  <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+</p>
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
@@ -113,17 +103,21 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-profile-trophy.vercel.app/?username=kalagar&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💬 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
@@ -131,8 +125,14 @@ I’m passionate about delivering real-world impact through reliable, thoughtful
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalagar/"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/kalagar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer Banner" />
+</div>
