@@ -29,6 +29,14 @@ With **14+ years of experience**, I help teams build and scale high-impact produ
 
 I enjoy working at the intersection of **engineering rigor**, **business outcomes**, and **developer experience**.
 
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalagar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## 🧭 What I Focus On
@@ -106,13 +114,11 @@ I enjoy working at the intersection of **engineering rigor**, **business outcome
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kalagar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kalagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalagar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=kalagar&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalagar&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -124,14 +130,6 @@ I enjoy working at the intersection of **engineering rigor**, **business outcome
 </div>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalagar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer Banner" />
